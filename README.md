@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dantiteis
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Machine Learning and Bash Linux
-- 💞️ I’m looking to collaborate on my own projects
+- 💞️ I’m looking to collaborate on my own projects for the moment
 - 📫 How to reach me? you can write me to dantiteis@gmail.com 
 
 <!---
